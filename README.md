@@ -6,7 +6,7 @@ npm install -g express-generator
 
 После генерируешь проект
 ```
-express --view="ejs" nodetest1
+express --view="ejs" leti_project
 ```
 
 Запускать локальный сервер уже умеешь
